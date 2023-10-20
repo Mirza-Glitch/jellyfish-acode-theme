@@ -1,0 +1,15 @@
+{
+  "id": "acode.theme.jellyfish",
+  "name": "Jellyfish Theme",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode" : 290,
+  "author": {
+    "name": "Mirza Glitch",
+    "email": "mirzaglitch@gmail.com",
+    "github": "Mirza-Glitch"
+  }
+}
