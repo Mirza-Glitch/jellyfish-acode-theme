@@ -1,6 +1,6 @@
 {
   "name": "jellyfish-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jellyfish theme for Acode Editor",
   "main": "dist/main.js",
   "repository": "https://github.com/Mirza-Glitch/jellyfish-acode-theme.git",
